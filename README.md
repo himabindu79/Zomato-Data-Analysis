@@ -53,6 +53,3 @@ The dataset (`Zomato data .csv`) contains information about restaurants, includi
 
 The notebook includes various plots such as count plots, histograms, box plots, line graphs, and heatmaps to illustrate the findings.
 
-#### Restaurant Type Distribution
-
-![Restaurant Type Distribution](output5-Copy.png)
